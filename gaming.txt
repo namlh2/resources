@@ -1,0 +1,166 @@
+###Fortnite is a free-to-play Battle Royale game with numerous game modes for every type of game player.
+#PRIMARY DOMAINS
+fortnite.com
+fortnitecontent-website-prod07.ol.epicgames.com
+fortnitecontent-website-prod.ak.epicgames.com
+fortnite-island-screenshots-live-cdn.ol.epicgames.com
+fortnite-matchmaking-public-service-live-asia.ol.epicgames.com
+fortnite-matchmaking-public-service-live-eu.ol.epicgames.com
+fortnite-matchmaking-public-service-live-me.ol.epicgames.com
+fortnite-matchmaking-public-service-live-nae.ol.epicgames.com
+fortnite-matchmaking-public-service-live-naw.ol.epicgames.com
+fortnite-matchmaking-public-service-live-oce.ol.epicgames.com
+fortnite-public-service-prod11.ol.epicgames.com
+fortnite-public-service-prod.ak.epicgames.com
+fortnitewaitingroom-public-service-prod.ol.epicgames.com
+#
+#PLATFORM DOMAINS
+#Logo Amazon AWS	... eb-prod07-ak-170977869.us-east-1.elb.amazonaws.com	and 1 more
+#Logo Akamai	fortnite-vod.akamaized.net
+#
+#
+#Agar.io - control your cell and eat other players to grow larger. Play with millions of players around the world and try to become the biggest cell of all.
+#PRIMARY DOMAINS
+agar.io
+#
+#Blizzard is a developer and publisher of video games, responsible for some of the most popular titles worldwide like World of Warcraft, Overwatch, the Starcraft series and the Diablo series. The company is a #subsidiary of Activision Blizzard.
+#PRIMARY DOMAINS
+battle.net
+battlenet.com.cn
+blizzard.cn
+blizzard.com
+blizzardgames.cn
+blz-contentstack.com
+blzstatic.cn
+bnet.163.com
+bnet.cn
+#PLATFORM DOMAINS
+#Logo Lumen CDN	blizzard.com.c.footprint.net	and 1 more
+#Logo Edgio	blizzard-dl.vo.llnwd.net	
+#Logo Akamai	blzddist1-a.akamaihd.net	and 12 more
+#Logo Discourse	blz-dev-toast.discourse.cloud	and 3 more
+#
+#BlueStacks is designed to enable Android applications to run on PCs running Microsoft Windows and Apple's macOS.
+#PRIMARY DOMAINS
+bluestacks.com
+#PLATFORM DOMAINS
+#Logo Amazon AWS	bluestacks-eb-prod.us-west-1.elasticbeanstalk.com	
+#Logo Zendesk	bluestacks.ssl.zendesk.com	and 1 more
+#
+#
+#Enter the world of Clash and up your game. Learn strategy for attacking and defense while seeing the community artwork.
+#PRIMARY DOMAINS
+clashofclans.com
+#
+#Clash Royale is a real-time multiplayer game starring the Royales, your favorite Clash of Clans characters and much, much more.
+#PRIMARY DOMAINS
+clashroyaleapp.com
+clashroyale.com
+#
+#Electronic Arts is a leading publisher of games on Console, PC and Mobile. Games include FIFA, NHL, Madden NFL, Battlefield, The Sims, and many more.
+#PRIMARY DOMAINS
+ea.com
+eamobile.com
+easports.com
+nearpolar.com
+swtor.com
+tnt-ea.com
+#PLATFORM DOMAINS
+#Logo Amazon AWS	... eaggreg-6dc2-994556672.us-east-1.elb.amazonaws.com	and 14 more
+#Logo Akamai	e16166.e12.akamaiedge.net	and 4 more
+#Logo Lumen CDN	ea.com.c.footprint.net	
+#
+#Epic Games is a video game producer. Games include Fortnite, Unreal, Gears of War, Shadow Complex, and the Infinity Blade series.
+#
+#PRIMARY DOMAINS
+epicgames.com
+epicgames.dev
+epicgames.net
+unrealengine.com
+#
+#PLATFORM DOMAINS
+#Logo Amazon AWS	... m-conte-6ad2-232154578.us-east-1.elb.amazonaws.com	and 21 more
+#Logo Akamai	a1192.dscw27.akamai.net	and 8 more
+#Logo CloudFlare	epicgames.com.cdn.cloudflare.net	
+#Logo Fastly	epicgames.map.fastly.net	
+#Logo Discourse	epic-prod-us2.discourse.cloud	
+#
+#The Leader in the development and publishing of mobile games, Gameloft® has established itself as one of the top innovators in its field since 2000.
+#PRIMARY DOMAINS
+gameloft.com
+#Logo Akamai	e755.d.akamaiedge.net	
+#Logo Helpshift	gameloft.helpshift.com	
+#
+#Hay Day is a freemium mobile farming game developed and published by Supercell. Hay Day was released for iOS on June 21, 2012 and Android on November 20, 2013.
+#PRIMARY DOMAINS
+haydaygame.com
+#
+#King.com Limited, trading as King and also known as King Digital Entertainment, is a video game developer based in St. Julian's, Malta, that specialises in the creation of social games.
+#PRIMARY DOMAINS
+king.com
+kinggames-multisite.onvanilla.net
+midasplayer.cloud
+midasplayer.com
+#PLATFORM DOMAINS
+#Logo Lumen CDN	king-blossomblastsaga-prod.secure2.footprint.net	and 6 more
+#Logo Akamai	midasplayer.com.akamaized.net
+#
+#League of Legends is a multiplayer online battle arena video game. In the game, two teams of five players battle in player-versus-player combat, each team occupying and defending their half of the map.
+#
+#PRIMARY DOMAINS
+leagueoflegends.co.kr
+leagueoflegends.com
+lol.riotgames.com
+lolstatic.com
+lolusercontent.com
+#PLATFORM DOMAINS
+#Logo Akamai	e12817.dscj.akamaiedge.net	
+#Logo CloudFlare	leagueoflegends.com.cdn.cloudflare.net
+#
+#Miniclip is a browser-based games company. The company develops, publishes and distributes games to an audience of 200 million monthly active users, across mobile, social and online platforms.
+###RIMARY DOMAINS
+miniclip.com
+#PLATFORM DOMAINS
+#Logo Zendesk	miniclip.ssl.zendesk.com	and 1 more
+#
+#Nintendo is the home of the Wii U console and Nintendo 3DS and Nintendo 2DS systems, plus new and classic games for all ages.
+#
+#PRIMARY DOMAINS
+nintendo.be
+nintendo.co.jp
+nintendo.com
+nintendo.com.au
+nintendo.co.uk
+nintendo.de
+nintendo.es
+nintendo.eu
+nintendo-europe.com
+nintendo.fr
+nintendo.it
+nintendo.jp
+nintendo.net
+nintendo.nl
+nintendoswitch.cn
+nintendowifi.net
+#
+#PLATFORM DOMAINS
+#Logo Akamai	e10127.a.akamaiedge.net	and 10 more
+#Logo Amazon AWS	... 0-proxy-api-1930831124.us-east-1.elb.amazonaws.com	and 1 more
+#Logo Adobe Ads	nintendo.com.102.112.2o7.net	and 1 more
+#Logo Edgio	nintendoco.s.llnwi.net	and 1 more
+#Logo Fastly	nintendo.map.fastly.net	
+#Logo Adobe EM	nintendoofamericainc.demdex.net
+#
+#OP.GG provides insights to gamers for League of Legends, PlayerUnknown's Battlegrounds, Overwatch and eSports. It is a platform where gamers can express and share their game identities and experiences.
+#
+#PRIMARY DOMAINS
+op.gg
+#
+#Origin is a digital distribution platform developed by Electronic Arts for purchasing and playing video games.
+#PRIMARY DOMAINS
+origin.com
+#
+#PlayFab is a backend platform from Microsoft Azure for creating live games with managed game services, real-time analytics, and
+#PRIMARY DOMAINS
+playfabapi.com
+playfab.com
