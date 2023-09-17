@@ -164,3 +164,72 @@ origin.com
 #PRIMARY DOMAINS
 playfabapi.com
 playfab.com
+#PlayStation is a gaming brand that consists of four home video game consoles
+gaikai.com
+playstation-cloud.com
+playstation-cloud.net
+playstation.com
+playstation.net
+scea.com
+sonyentertainmentnetwork.com
+station.sony.com
+#Riot Games is a video game developer, publisher and esports tournament organizer.
+dradis-prod.rdatasrv.net
+pvp.net
+rgpub.io
+riotcdn.com
+riotcdn.net
+riotgames.com
+#Roblox is a popular online game platform and game creation system
+rbxcdn.com
+rbxtrk.com
+roblox-c0.cachefly.net
+roblox-c1.cachefly.net
+roblox-c2.cachefly.net
+roblox-c3.cachefly.net
+roblox-c4.cachefly.net
+roblox-c5.cachefly.net
+roblox-c6.cachefly.net
+roblox-c7.cachefly.net
+roblox.com
+roblox-css.cachefly.net
+roblox-t1.cachefly.net
+roblox-t2.cachefly.net
+roblox-t3.cachefly.net
+roblox-t4.cachefly.net
+roblox-t5.cachefly.net
+#Rockstar Games
+rockstargames.com
+rsg.sc
+#Supercell is a Finnish mobile game development company based in Helsinki, Finland
+supercell.com
+supercell.net
+#Ubisoft is a video game company
+ubi.com
+ubisoft.com
+ubisoftconnect.com
+ubisoft.org
+#Valorant is a free-to-play first-person hero shooter developed and published by Riot Games
+playvalorant.com
+valorant.scd.riotcdn.net
+valorant.secure.dyn.riotcdn.net
+#Zynga develops, markets, and operates social games on mobile platforms
+zynga.com
+zyngagames.com
+zynga.my
+zyngapoker.com
+#Lien quan
+gameloop.vip
+bluestacks.com
+#Tien chien
+tienchien.cmn.vn
+#Garena
+garena.com
+#Game
+minecraft.net
+playadopt.me
+pokemon.com
+steampowered.com
+pokemongolive.com
+
+
