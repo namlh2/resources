@@ -53,3 +53,7 @@ wus.notifications.skype.com
 sa1-api.asm.skype.com
 ea1-api.asm.skype.com
 use.config.skype.com
+static-asm.secure.skypeassets.com
+secure.skypeassets.com
+apps.skypeassets.com
+join.secure.skypeassets.com
