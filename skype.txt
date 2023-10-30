@@ -57,3 +57,6 @@ static-asm.secure.skypeassets.com
 secure.skypeassets.com
 apps.skypeassets.com
 join.secure.skypeassets.com
+browser.pipe.aria.microsoft.com
+msftconnecttest.com
+gateway.bingviz.microsoftapp.net
